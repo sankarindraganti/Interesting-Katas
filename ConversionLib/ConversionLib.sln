@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversionLib", "ConversionLib\ConversionLib.csproj", "{83C5FE74-B016-4609-97F2-FBBE2ABAEC5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertLibTests", "ConvertLibTests\ConvertLibTests.csproj", "{F7491F76-7ACC-4729-B95C-5EE6BEEF8879}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83C5FE74-B016-4609-97F2-FBBE2ABAEC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C5FE74-B016-4609-97F2-FBBE2ABAEC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83C5FE74-B016-4609-97F2-FBBE2ABAEC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83C5FE74-B016-4609-97F2-FBBE2ABAEC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7491F76-7ACC-4729-B95C-5EE6BEEF8879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7491F76-7ACC-4729-B95C-5EE6BEEF8879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7491F76-7ACC-4729-B95C-5EE6BEEF8879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7491F76-7ACC-4729-B95C-5EE6BEEF8879}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
